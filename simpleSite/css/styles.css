@@ -1,0 +1,31 @@
+body{
+	background-color: rgba(210, 160, 0, .3);
+	background-image: url('../img/beigeFabric.jpg');
+}
+
+.changePink{
+	background-image: url('../img/pinkFabric.jpg');
+	background-size: cover;
+}
+
+.changeBlue{
+	background-image: url('../img/blueFabric.jpg');
+	background-size: cover;
+}
+
+.changeYellow{
+	background-image: url('../img/yellowFabric.jpg');
+	background-size: cover;
+}
+
+#pinkButton{
+	position: absolute;
+	top: 30%;
+	left: 10%;
+}
+
+#blueButton{
+	position: absolute;
+	top: 60%;
+	left: 70%;
+}
